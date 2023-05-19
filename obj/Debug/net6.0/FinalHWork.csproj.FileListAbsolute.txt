@@ -1,0 +1,15 @@
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\bin\Debug\net6.0\FinalHWork.exe
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\bin\Debug\net6.0\FinalHWork.deps.json
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\bin\Debug\net6.0\FinalHWork.runtimeconfig.json
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\bin\Debug\net6.0\FinalHWork.dll
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\bin\Debug\net6.0\FinalHWork.pdb
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\obj\Debug\net6.0\FinalHWork.csproj.AssemblyReference.cache
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\obj\Debug\net6.0\FinalHWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\obj\Debug\net6.0\FinalHWork.AssemblyInfoInputs.cache
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\obj\Debug\net6.0\FinalHWork.AssemblyInfo.cs
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\obj\Debug\net6.0\FinalHWork.csproj.CoreCompileInputs.cache
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\obj\Debug\net6.0\FinalHWork.dll
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\obj\Debug\net6.0\refint\FinalHWork.dll
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\obj\Debug\net6.0\FinalHWork.pdb
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\obj\Debug\net6.0\FinalHWork.genruntimeconfig.cache
+D:\Users\Filatov_D\Desktop\GB\HomeWork\FinalHWork\obj\Debug\net6.0\ref\FinalHWork.dll
